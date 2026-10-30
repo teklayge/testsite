@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GitHub Pages Test</title>
+</head>
+<body>
+
+  <h1>It works! 🎉</h1>
+  <p>This page is hosted for free on GitHub Pages.</p>
+
+  <hr>
+
+  <h2>Test checklist</h2>
+  <ul>
+    <li>HTML is rendering ✅</li>
+    <li>Headings and lists work ✅</li>
+    <li>Links work — <a href="https://github.com">visit GitHub</a> ✅</li>
+    <li>Images would load from the <code>img/</code> folder (if added)</li>
+  </ul>
+
+  <h2>Club project placeholder</h2>
+  <p>
+    This will become the <strong>School Clubs Directory</strong>.
+    Next step: add club cards and a category filter.
+  </p>
+
+  <footer>
+    <p>&copy; 2026 ICT Club — Test page</p>
+  </footer>
+
+</body>
+</html>
